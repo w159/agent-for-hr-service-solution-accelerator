@@ -1,0 +1,94 @@
+{
+    type: "AdaptiveCard",
+    body: [
+        {
+            type: "Container",
+            items: [
+        {
+          type: "Container",
+                    separator: true,
+                    items: [            
+                {
+                    type: "ColumnSet",
+                    columns: [
+                        {
+                            type: "Column",
+                            items: [
+                                {
+                                    type: "Image",
+                                    url: "data:image/png;base64,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",
+                                    altText: "Relocation Summary",
+                                    size: "Small",
+                                    width: "44px",
+                                    height: "44px"
+                                }
+                            ],
+                            width: "44px"
+                        },
+                        {
+                            type: "Column",
+                            items: [
+                                {
+                                    type: "TextBlock",
+                                    weight: "Bolder",
+                                    text: "Relocation Summary",
+                                    wrap: true,
+                                    size: "Default"
+                                }
+                            ],
+                            width: "stretch",
+                            verticalContentAlignment: "Center"
+                        }
+                    ]
+                },
+                {
+                    type: "TextBlock",
+                    text: "Below are the details you provided:",
+                    wrap: true
+                },
+                {
+                    type: "TextBlock",
+                    text: "**Current Office:** " & Topic.OriginLocation,
+                    wrap: true
+                },
+                {
+                    type: "TextBlock",
+                    text: "**New Office:** " & Topic.DestinationLocation,
+                    wrap: true,
+                    spacing: "None"
+                },
+                {
+                    type: "TextBlock",
+                    text: "**Moving Date:** " & Topic.RelocationDate,
+                    wrap: true,
+                    spacing: "None"
+                },
+                {
+                    type: "TextBlock",
+                    text: "**Salary Adjustment Range:** " & Topic.SalaryDelta,
+                    wrap: true,
+                    spacing: "None"
+                },
+                {
+                type: "ActionSet",
+                actions: [
+                    {
+                    type: "Action.Submit",
+                    title: "Discard"
+                    },
+                    {
+                    type: "Action.Submit",
+                    title: "Proceed",
+                    style: "positive"
+                    }
+                ]
+                }
+            ]
+            
+        }
+            ]
+        }
+    ],
+    '$schema': "http://adaptivecards.io/schemas/adaptive-card.json",
+    version: "1.5"
+}
