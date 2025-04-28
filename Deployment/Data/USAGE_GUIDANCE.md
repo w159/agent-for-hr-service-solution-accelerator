@@ -79,7 +79,7 @@ Selecting the "Start your move" button triggers it immediately, for the purposes
 <i>**Usage Note**: The autonomous triggering functionality relies on Generative AI-based orchestration to trigger the appropriate topic. It is possible, though unlikely, that the topic will not get triggered. If you have not received an invitation to complete a survey after roughly one minute, you can click "Start your move" again, to trigger the agent again.</i>
 
 * **AI Agent**: Hi Pier,
-It's been two weeks since your move to Contoso-NewYork, and we hope you're settling in well. We'd love to hear your thoughts on how the relocation process went. Could you take a minute to answer a few quick questions? Your feedback will help us iprove the experience for future employees. Let's get started.
+It's been two weeks since your move to Contoso-NewYork, and we hope you're settling in well. We'd love to hear your thoughts on how the relocation process went. Could you take a minute to answer a few quick questions? Your feedback will help us improve the experience for future employees. Let's get started.
 * <i>It presents two options, "Start Survey", "Maybe Later".</i> 
 * **Pier**: Select "Start Survey"
 * **AI Agent**: Overall satisfaction: How would you rate your overall satisfaction with the relocation process? Five buttons appear: "Excellent", "Very Good", "Good", "Fairly Poor", and "Very Poor".
