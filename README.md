@@ -14,7 +14,7 @@ The Agent for HR Service is designed to assist employees with various HR-related
 
 This accelerator leverages Copilot Studio, Power Platform, and Microsoft Teams. It also interfaces with Dataverse and integrates the 3rd party business workflow management program, ServiceNow. 
 
-The Agent enables employees to propose a relocation, compare benefits and compensation in different cities, and track the approval process. Upon completion of the relocation process, the company's records are updated and an automation is triggered wherein the Agent for HR Service will reaches out for the employee's feedback, all using natural language inside of Microsoft Teams. 
+The Agent enables employees to propose a relocation, compare benefits and compensation in different cities, and track the approval process. Upon completion of the relocation process, the company's records are updated and an automation is triggered wherein the Agent for HR Service will reach out for the employee's feedback, all using natural language inside of Microsoft Teams. 
 
 **Note:** This accelerator is not intended to be a production ready solution. The components can be extended through customization and configuration as desired to create a production ready solution. All components packaged have been done through an unmanaged solution, which allows users to be able to customize and extend the components post-deployment. 
 
