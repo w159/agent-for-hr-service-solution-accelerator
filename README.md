@@ -96,11 +96,6 @@ Please click this [**Link to Deployment Guide**](Deployment/README.md) for instr
 
 [**Usage Guidance**](Deployment/Data/USAGE_GUIDANCE.md) has been provided to assist you in executing the steps required to see the included capabilities of this accelerator in action.
 
-{🟨TODO: Fill in table with deployment specific links}
-
-| [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/microsoft/content-processing-solution-accelerator) | [![Open in Dev Containers](https://img.shields.io/static/v1?style=for-the-badge&label=Dev%20Containers&message=Open&color=blue&logo=visualstudiocode)](https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/microsoft/content-processing-solution-accelerator) | 
-|---|---|
-
 <br/>
 
 {🟨TODO: Remove if Azure OpenAI quota check is not required }
@@ -235,9 +230,7 @@ Check out similar solution accelerators
 
 ## Provide feedback
 
-{🟨TODO: Update link to create new issues for this repo}
-
-Have questions, find a bug, or want to request a feature? [Submit a new issue](https://github.com/microsoft/agent-for-hr-service-solution-accelerator/issues) on this repo and we'll connect.
+Have questions, find a bug, or want to request a feature? [Submit a new issue](https://github.com/microsoft/agent-for-hr-service-solution-accelerator/issues/new/choose) on this repo and we'll connect.
 
 <br/>
 
