@@ -22,7 +22,7 @@ You can find more information about our suite of Solution Accelerators by visiti
 
 **ServiceNow:** 
 
-- Employee Information
+Employee Information
 
 *Key Fields*
 
@@ -33,41 +33,32 @@ You can find more information about our suite of Solution Accelerators by visiti
 * Job Title: Business Analyst  
 * HR representative: Carol Bouchard 
 
-- Benefits policies by Office Location (5 ServiceNow KB articles)
+Benefits policies by Office Location (5 ServiceNow KB articles)
 
 * Each article contains a high-level list of benefits available in a given office*
 * Benefits vary slightly by office location*
 
-- AQ (ServiceNow KB article)
+FAQ (ServiceNow KB article)
 
-*Single article with description of the relocation process for Contoso*
+* Single article with description of the relocation process for Contoso
 
 **SharePoint:**
 
-- Relocation Request Initiation Letter (Documents) Structure and non-dynamic content manually  
-- Template dynamic fields, and where we will source them  
-
-*Offer Date*
-* Date of Power Automate execution 
-*Anticipated Start Date*
-* Gathered from Henry during interaction 
-*Candidate Current Office Location*
-* Pulled from ServiceNow; hero location: Contoso-Redmond 
-*Full Name*
-* Pulled from ServiceNow 
-*Job Title*
-* Pulled from ServiceNow 
-*Destination Location*
-* Gathered from employee during interaction 
-*Salary Guidance*
-* Cost of living salary adjustment. Dynamically created based on a lookup and calculation, taking into account origin and destination; Example: “-10% to -6%”
+* Relocation Request Initiation Letter (Documents) Structure and non-dynamic content manually  
+* Template dynamic fields, and where we will source them  
+     *Offer Date* - Date of Power Automate execution
+     *Anticipated Start Date* - Gathered from Henry during interaction 
+     *Candidate Current Office Location* - Pulled from ServiceNow; hero location: Contoso-Redmond
+     *Full Name* - Pulled from ServiceNow
+     *Job Title* - Pulled from ServiceNow 
+     *Destination Location* - Gathered from employee during interaction 
+     *Salary Guidance* - Cost of living salary adjustment. Dynamically created based on a lookup and calculation, taking into account origin and destination; Example: “-10% to -6%”
 
 **Dataverse:**
 
-- Relocation (Table) 
+Relocation (Table) 
 
 *Key Fields*
-
 * User (user record)  
 * Relocating from (string)  
 * Relocating to (string)  

@@ -98,7 +98,7 @@ Please click this [**Link to Deployment Guide**](Deployment/README.md) for instr
 
 <br/>
 
-### Prerequisites and Costs - Do not have content
+### Prerequisites and Costs
 
 To deploy this solution accelerator, ensure you have access to the following
 
@@ -186,8 +186,6 @@ See these resources for more details on setting up authentication:
 <br/>
 
 ### Frequently asked questions
-
-{🟨TODO: Remove this section if you don't have FAQs}
 
 [Click here](./FAQs.md) to learn more about common questions about this solution.
 
