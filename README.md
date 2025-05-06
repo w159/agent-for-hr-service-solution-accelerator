@@ -197,7 +197,7 @@ Check out similar solution accelerators
 | Solution Accelerator | Description |
 |---|---|
 | [Agent for Contact processing](https://github.com/microsoft/Agent-for-Contract-Processing-Solution-Accelerator) | The Agent for Contract Processing helps employees quickly create, find, manage and share contracts, saving time and resources by automating contract processing workflows. |
-| [Agent for RFP response](https://github.com/microsoft/Conversation-Knowledge-Mining-Solution-Accelerator) | The Agent for RFP response processes RFP documents and leverages its knowledge base to create a draft proposal posted autonomously in Microsoft Teams. |
+| [Agent for RFP response](https://github.com/microsoft/agent-for-rfp-response-solution-accelerator) | The Agent for RFP response processes RFP documents and leverages its knowledge base to create a draft proposal posted autonomously in Microsoft Teams. |
 
 
 <br/>   
