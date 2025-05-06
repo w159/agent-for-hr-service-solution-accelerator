@@ -47,11 +47,17 @@ FAQ (ServiceNow KB article)
 * Relocation Request Initiation Letter (Documents) Structure and non-dynamic content manually  
 * Template dynamic fields, and where we will source them  
      *Offer Date* - Date of Power Automate execution
+
      *Anticipated Start Date* - Gathered from Henry during interaction 
+
      *Candidate Current Office Location* - Pulled from ServiceNow; hero location: Contoso-Redmond
+
      *Full Name* - Pulled from ServiceNow
+
      *Job Title* - Pulled from ServiceNow 
+
      *Destination Location* - Gathered from employee during interaction 
+     
      *Salary Guidance* - Cost of living salary adjustment. Dynamically created based on a lookup and calculation, taking into account origin and destination; Example: “-10% to -6%”
 
 **Dataverse:**
