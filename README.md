@@ -80,10 +80,7 @@ Additional details on how these capabilities are leveraged in this accelerator c
   Dynamically generate structured HR documents from related data sources and templates, ensuring compliance and consistency.
   
   - **Capture employee satisfaction** <br/>
-  Features description goes here.​
-
-  - **Features name** <br/>
-  Leverage employee feedback over time, generating insights to drive proactive HR improvements.
+    Leverage employee feedback over time, generating insights to drive proactive HR improvements.
      
 </details>
 
@@ -102,12 +99,12 @@ Please click this [**Link to Deployment Guide**](Deployment/README.md) for instr
 
 To deploy this solution accelerator, ensure you have access to the following
 
-- [Microsoft Power Platform license](https://learn.microsoft.com/en-us/power-platform/admin/pricing-billing-skus) with Dataverse enabled and System Administrator access.
-- [Copilot Studio license](https://learn.microsoft.com/en-us/microsoft-copilot-studio/billing-licensing).
-- End users having Dataverse access.
-- [ServiceNow license](https://www.servicenow.com/products/hr-service-delivery.html).
-- Access to create a SharePoint site through appropriate [Microsoft 365 license](https://www.microsoft.com/en-us/Licensing/product-licensing/microsoft-365) .
-- The [Teams Approvals app](https://learn.microsoft.com/en-us/microsoftteams/approval-admin) available for users
+- [Microsoft Power Platform license](https://learn.microsoft.com/en-us/power-platform/admin/pricing-billing-skus) with Dataverse enabled and System Administrator access
+- [Copilot Studio license](https://learn.microsoft.com/en-us/microsoft-copilot-studio/billing-licensing)
+- End users having Dataverse access
+- [ServiceNow license](https://www.servicenow.com/products/hr-service-delivery.html)
+- Access to create a SharePoint site through appropriate [Microsoft 365 license](https://www.microsoft.com/en-us/Licensing/product-licensing/microsoft-365)
+- The [Teams Approvals App](https://learn.microsoft.com/en-us/microsoftteams/approval-admin) available for users
 - Environment Variables solution installed in your Dataverse environment
 
 
@@ -115,9 +112,8 @@ To deploy this solution accelerator, ensure you have access to the following
 
 | Product | Description | Cost |
 |---|---|---|
-| [Microsoft Power platform](https://learn.microsoft.com/en-us/power-platform/) |  Microsoft Power Platform is a suite of applications, connectors, and a data platform (Dataverse) that provides a rapid application development environment to build custom apps, automate workflows, and analyze data. | [Pricing](https://www.microsoft.com/en-us/power-platform/pricing/) |
-| [Microsoft copilot studio](https://learn.microsoft.com/en-us/microsoft-copilot-studio/) | Microsoft Copilot Studio is a graphical, low-code tool designed for building AI-driven agents and agent flows. | [Pricing](https://learn.microsoft.com/en-us/microsoft-copilot-studio/billing-licensing) |
-| [ServiceNow](https://www.servicenow.com/products/hr-service-delivery.html) | ServiceNow's HR Service Delivery (HRSD) solution is designed to streamline and automate HR processes, enhancing the overall employee experience.  | [Pricing](https://www.servicenow.com/products/hr-service-delivery.html) |
+| [Microsoft Power Platform](https://learn.microsoft.com/en-us/power-platform/) |  Microsoft Power Platform is a suite of applications, connectors, and a data platform (Dataverse) that provides a rapid application development environment to build custom apps, automate workflows, and analyze data. | [Pricing](https://www.microsoft.com/en-us/power-platform/pricing/) |
+| [Microsoft Copilot Studio](https://learn.microsoft.com/en-us/microsoft-copilot-studio/) | Microsoft Copilot Studio is a graphical, low-code tool designed for building AI-driven agents and agent flows. | [Pricing](https://learn.microsoft.com/en-us/microsoft-copilot-studio/billing-licensing) |
 | [Microsoft 365](https://www.microsoft.com/en-us/microsoft-365/products-apps-services) | Microsoft 365 is a cloud-powered productivity platform that includes a suite of applications and services designed to enhance productivity and collaboration. | [Pricing](https://www.microsoft.com/en-us/microsoft-365/buy/compare-all-microsoft-365-products) |
 
 <br/>
