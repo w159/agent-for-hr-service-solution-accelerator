@@ -156,7 +156,7 @@ Overall, the HR Agent helps Pier by providing instant answers, automating routin
 
 <br /><br />
 
-<h2><img src="./Deployment/Images/readme/supporting-documentation.png" width="48" />
+<h2><img src="./Deployment/Images/supporting-documentation.png" width="48" />
 Supporting documentation
 </h2>
 
